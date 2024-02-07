@@ -1,6 +1,6 @@
 Dice Roller App
 
-![Dashboard Screenshot](/home/manjul/Documents/Study/Github/Projects/streamlit.png)
+![Dashboard Screenshot](https://github.com/Tripathi-Manjul/Projects/blob/main/streamlit.png)
 
 
 Welcome to the Dice Roller App! This Streamlit application lets you roll virtual dice and visualize the outcomes. Customize the dice size and number of rolls to suit your preferences. See real-time results and explore the distribution of outcomes with an interactive histogram.
